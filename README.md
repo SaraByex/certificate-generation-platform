@@ -29,7 +29,7 @@ Built with:
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/priakhina/certificate-generation-platform.git
+git clone https://github.com/SaraByex/certificate-generation-platform.git
 cd certificate-generation-platform
 ```
 
